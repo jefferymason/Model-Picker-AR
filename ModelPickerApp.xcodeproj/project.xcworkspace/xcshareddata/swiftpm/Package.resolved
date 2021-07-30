@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SmartHitTest",
+        "repositoryURL": "https://github.com/maxxfrazer/ARKit-SmartHitTest.git",
+        "state": {
+          "branch": null,
+          "revision": "2b7145d55ca273f1ec0328783f87e93b9473f9f5",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "FocusEntity",
+        "repositoryURL": "https://github.com/maxxfrazer/FocusEntity.git",
+        "state": {
+          "branch": null,
+          "revision": "0c7cfd8b107085244ebfd7a94e99aad60aee5c7b",
+          "version": "2.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
